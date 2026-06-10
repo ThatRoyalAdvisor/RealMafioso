@@ -23,8 +23,7 @@
 
 
 
-![4p9p4o](blob:https://pony.town/fbed9a5a-c144-475f-866c-101b3e4deb20)
-
+![Image-alt](<img width="212" height="248" alt="Image" src="https://github.com/user-attachments/assets/de7d9ddd-6b93-42db-8cd1-d416518a816e" />)
 
 <!--
 **RealMafioso/RealMafioso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
