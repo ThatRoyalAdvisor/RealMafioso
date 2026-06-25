@@ -78,6 +78,12 @@
    <p>I avoid talking / whispering under 12 years old.</p>
    <p>I like to talk / whisper alot even when im bored.</p>
 
+
+
+
+
+
+
   
 
    ## Questions - Why i don't ship Spike with other canons and fanons?
