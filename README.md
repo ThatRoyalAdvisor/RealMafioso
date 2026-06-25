@@ -24,6 +24,7 @@
 <p>I only speak English and Filipino -sometimes a little.</p>
 <p>A Nonshippers : ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
 <p>I avoid blocking either being toxic and harassing.</p>
+<p>I sit with my friend name Twilight Sparkle, Aka @zouweemama</p>
 
  </div>
  </details>
