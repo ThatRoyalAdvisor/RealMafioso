@@ -165,5 +165,5 @@
 
   <details>
   <summary><int>Music I like</int></summary>
-  <p>Soda Pop, Golden, </p>
+  <p>Soda Pop, Golden, APT, Flowers, All I want for Christmas is You, Funk Do Bounce, Meme Funk, Beeper Funk, You've got a Friend in Me, Psycho Teddy, Sweet but Psycho, Symphony, Skellies, Double Life, Wavin' Flags, Nothing New, I don't wanna talk to You, Im So Sorry, Close up, Everyone is Dumb, Bloodpop, Rewrite of Stars, TAKE A REST, TAKE A RUN, Sleep Well, Money Green, What is Logical?, Not my Problem, E.T is a alien, 3.0.0.8, Trypophobia, Digital Hallucination, Ghost, Mi mi mi, </p>
  
