@@ -98,7 +98,8 @@
    <p>Do not be a stranger, If you are, i will not able response ur message.</p>
    <p>Free to interact when im listening to musics.</p>
    <p>I usually like people cuddeling me either sitting with me. I really don't care if i sit alone.</p>
-   <p>If your not feeling well, not in mood or upset. As a dragon advisor i will simply say "You'll be able to light up the whole sky."</p>
+   <p>If your not feeling well, not in mood or upset. I might whisper / response you.</p>
+   <p>I should think before friend request you.</p>
 
 
 
