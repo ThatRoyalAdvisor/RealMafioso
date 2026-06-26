@@ -107,6 +107,8 @@
    </div>
    </details>
 
+
+
   <details>
    <summary><inst>⚠️Warning/Caution⚠️</inst></summary>
    <p> Interacting / Disturbing / Interupting me its a extreme caution, I might bite you if YOU dot that.</p>
@@ -125,6 +127,8 @@
  </details>
 
  <br>
+
+
 
   <details>
    <summary><inst>Questions - Why i don't ship Spike with other canons and fanons?</inst></summary>
@@ -148,6 +152,8 @@
    </div>
    </details>
 
+
+
    <details>
    <summary><int>Animals I like</int></summary>
    <p>Dinosaurs - T-Rex, Velociraptor, Indominus Rex, Distortus Rex, and Pterodactyl. Dogs: German Shepherd, Doberman, and Husky. Animals: Crocodiles, Alligators, Snakes, Spiders, Tiger, Lion, Cheetah, and Hyena.</p>
@@ -161,6 +167,8 @@
    </div>
    </details>
 
+
+
   <details>
   <summary><int>Favourite Shows</int></summary>
   <p>Bluey, FNAF, Lego Movies (part 1 and 2), Kung Fu Panda (all parts), TAWOG, Pokemon shows (series and movies), MLP (series and movies), Turbo, Back to the Outback, Dog in Space, The Angry Birds (all parts), Transformers (all series and movies), Kipo and the age of wonderbeasts, Unicorn Academy (part 1 and 2), The Last Bus, Dead End -Paranormal Park-, Miraculous Ladybug and Cat Noir / Chat Noir (series and movies),NINJAGO (LEGO), The Loud House (serie and movie), Spongebob Squarepants (series and movies), The Boss Baby (all parts), Despicable (all parts), Toy Story (all parts), GOAT, The Cat Returns, Nimona, Swapped, Hotel Transylvania (all parts), My Melody and Kuromi, Bread Barbershop, Storks, Small foot, Spiderman (series and movies), Over the moon, Catch teenieping, Ron's gone wrong, Oddballs, Rango, Ferdinand, Ultraman Rising, Super Pupz, Creeped Out, Chupa, Trolls (all parts), Ponyo, Secret Magic Control Magic, Sonic (all series and movies), Matilda the Musical, Peppa Pig, The Cuphead Show, IF, Wish Dragon, The Twists, Leo, Thelma the Unicorm, Pup Academy, Arlo the Alligator Boy (series and movie), Chicken Run (all parts), Garfield (all series and movies), Boboiboy (all series and movies), Green Eggs and Ham, How to Train Your Dragon (all series and moives), The Creature Cases, Spirit Riding Free, Johnny Test, PJ Masks, Paw Patrol (series and movies), Kpop-Demon Hunters, Woody Woodpecker goes to Camp, Nanny McPhee (all / parts movies), My Neighbor Totoro, The Star, Duck Duck Goose, 7 Bears, Jungle Beat the movie (part 1 and 2), Phineas and Ferb (all movies), The Doomies,</p>
@@ -172,6 +180,7 @@
    </details>
 
  <br> 
+
 
   <details>
   <summary><int>Music I like</int></summary>
