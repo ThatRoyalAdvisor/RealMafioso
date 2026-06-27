@@ -14,7 +14,6 @@
  </p>
  <br>
 
- <br>
 
 <details>
  <summary><ins>About Myself</ins></summary>
@@ -34,7 +33,6 @@
 </details>
  <br>
   
-<br>
 
   <details>
    <summary><ins>About Pony Town</ins></summary>
@@ -53,7 +51,7 @@
  <p>I don't assume that much; I'll allow you to wear Twilight if you want my attention.</p>
   </div>
  </details>
- <br>
+   <br>
 
   <details>
  <summary><ins>⚠️Do not Befriend with me.⚠️</ins></summary>
@@ -71,6 +69,8 @@
     </div>
    </details>
    <br>
+
+   
    
    <details>
     <summary><inst>Favourite Colors and Hobbies.</inst></summary>
