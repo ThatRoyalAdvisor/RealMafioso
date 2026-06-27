@@ -17,9 +17,6 @@
  </p>
  <br>
 
- 
-
-
 <details>
  <summary><ins>About Myself</ins></summary>
   
