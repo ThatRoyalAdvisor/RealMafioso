@@ -94,7 +94,6 @@
       
 ## 👀INTERESTS👀
 <p align="center">
-
    <details>
     <summary><inst>Favourite Colors and Hobbies.</inst></summary>
       
