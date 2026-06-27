@@ -75,7 +75,7 @@
 <br>
 
 <details>
-<summary><inst >ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary>
+<summary><ins>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</ins></summary>
   
 <div align="center">
    <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
@@ -91,7 +91,7 @@
 <br>
 
   <details>
-   <summary><inst>⚠️ᴡᴀʀɴɪɴɢ/ᴄᴀᴜᴛɪᴏɴ⚠️</inst></summary>
+   <summary><ins>⚠️ᴡᴀʀɴɪɴɢ/ᴄᴀᴜᴛɪᴏɴ⚠️</ins></summary>
      
 <div align="center">
    <p>Interacting / Disturbing / Interrupting me is an extreme caution; I might bite you if YOU do that.</p>
@@ -111,7 +111,7 @@
 <br>
 
 <details>
- <summary><inst>❔ʟᴏᴄᴀᴛɪᴏɴ❔</inst></summary>
+ <summary><ins>❔ʟᴏᴄᴀᴛɪᴏɴ❔</ins></summary>
  
  <div align="center">
    <p>Under Bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast. [In Safe Server #OG]</p>
