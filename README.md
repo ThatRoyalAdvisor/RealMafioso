@@ -74,12 +74,10 @@
 </details>
 <br>
 
- <br>
- 
  <details>
   <summary><inst>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary>
-  
-<div align="center">
+  <div align="center">
+
    <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
    <p>I avoid talking / whispering if under 12 years old.</p>
    <p>I like to talk / whisper a lot even when I'm bored.</p>
