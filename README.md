@@ -15,11 +15,11 @@
  <br>
 
  
-<p align="center">
+
 <details>
  <summary><ins>About Myself</ins></summary>
-    
-<p align="center">
+   <p align="center">
+
  <p>Hello, my name is Spike, and I'm 23 years old; my birthday is on the 9th of November.</p>
  <p>Nicknames: Spike, Spine and Spire.</p>
  <p>I only speak English and Filipino—sometimes a little.</p>
