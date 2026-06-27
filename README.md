@@ -34,9 +34,9 @@
  <p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK.</p>
  </div>
 </details>
-    
 <br>
-  
+   <p align="center">
+
 
   <details>
    <summary><ins>About Pony Town</ins></summary>
