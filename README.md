@@ -16,8 +16,8 @@
 
  
  <p align="center">
-
- <p align="center"><details>
+ <p align="center">
+<details>
  <summary><ins>About Myself</ins></summary>
   
 <p align="center">
