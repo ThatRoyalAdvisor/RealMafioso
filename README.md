@@ -204,7 +204,7 @@
 
 
 
-## Not Able To Read  or Respone Your Message. If You keep on spam whisper.
+## ɴᴏᴛ ᴀʙʟᴇ ᴛᴏ ʀᴇᴀᴅ ᴏʀ ʀᴇsᴘᴏɴᴅ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ. ɪғ ʏᴏᴜ ᴋᴇᴇᴘ ᴏɴ sᴘᴀᴍ ᴡʜɪsᴘᴇʀ..
 
 <div align="center">
 <img width="220" height="227" alt="Image" src="https://github.com/user-attachments/assets/ce2041ac-2087-4e3f-a7d8-dca8c74778c7" />
@@ -221,7 +221,7 @@
  
 
 
-## She always got my side. Thank you, Twilight. 
+## sʜᴇ ᴀʟᴡᴀʏs ɢᴏᴛ ᴍʏ sɪᴅᴇ. ᴛʜᴀɴᴋ ʏᴏᴜ, ᴛᴡɪʟɪɢʜᴛ. 
 
  <div align="center">
 <img width="222" height="325" alt="Image" src="https://github.com/user-attachments/assets/bbb10e4f-0ec7-4950-af85-5903ee7899ab" />
@@ -237,7 +237,7 @@
  <br> 
 
 
- ## Sleepy
+ ## sʟᴇᴇᴘʏ...
  
 <div align="center">
 <img width="220" height="228" alt="Image" src="https://github.com/user-attachments/assets/635601f9-8858-4be3-8428-b1fb3b36754c" />
