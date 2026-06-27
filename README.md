@@ -75,7 +75,7 @@
 <br>
 
 <details>
- <u><summary><inst>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary></u>
+<summary><inst>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary>
   
 <div align="center">
    <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
@@ -140,7 +140,7 @@
     <p>My hobbies are playing, watching, listening to music, and drawing.</p>
     <p>I do not like getting disturbed whenever I'm watching and playing.</p>
     <p>You are free to whisper to me when I'm listening to music or drawing.</p>
-    </div>
+   </div>
 </details>
 <br>
 
