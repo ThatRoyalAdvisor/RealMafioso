@@ -75,7 +75,7 @@
 <br>
 
 <details>
-<summary><inst>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary>
+<summary><inst >ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary>
   
 <div align="center">
    <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
