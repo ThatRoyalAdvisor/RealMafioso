@@ -34,6 +34,7 @@
  <p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK.</p>
  <p>Sleeping, watching, sketching, eating, listening to music, playing, and reading are all frequently AFK or semi-AFK.</p>
  <p>I'm a happy or cheerful dragon who occasionally enjoys whispering or speaking clearly—well, sometimes.</p>
+ <p>Tactically I'm canon. Like other canon cartoons (NOT FANON), I'm obsessed with Spike, Zym, Riyu, and other dragon shows or movies.</p>
  </div>
 </details>
 <br>
@@ -116,7 +117,7 @@
  <summary><ins>❔ʟᴏᴄᴀᴛɪᴏɴ❔</ins></summary>
  
  <div align="center">
-   <p>Under Bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast. [In Safe Server #OG]</p>
+   <p>Under bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast. [In Safe Server #OG]</p>
    </div>
 </details>
 <br>
