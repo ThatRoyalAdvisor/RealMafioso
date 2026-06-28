@@ -20,7 +20,7 @@
  <br>
 
 <details>
-   <summary><ins>ᴍʏsᴇʟғ</ins></summary>
+   <summary><ins>ᴍʏsᴇʟғ:</ins></summary>
   
 <div align="center">
  <p>Hi and Hello, my name is Spike, and I'm 23 years old; my birthday is on the 9th of November.</p>
@@ -45,7 +45,7 @@
 </p>
 
 <details>
-  <summary><ins>ᴘᴏɴʏ ᴛᴏᴡɴ</ins></summary>
+  <summary><ins>ᴘᴏɴʏ ᴛᴏᴡɴ:</ins></summary>
    
 <div align="center">
  <p>When I'm with people, I'll let them snuggle and pile on me. My Spike cosplay should not be covered or replicated. Doing that would be risky.</p>
@@ -64,7 +64,7 @@
 <br>
 
   <details>
- <summary><ins>❗ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅᴇᴅ ᴍᴇ.❗</ins></summary>
+ <summary><ins>❗ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅᴇᴅ ᴍᴇ.❗:</ins></summary>
      
 <div align="center">   
  <p>Under 10 years old, I will not accept being friends with anyone under 12 years old.</p>
@@ -81,7 +81,7 @@
 <br>
 
 <details>
-<summary><ins>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</ins></summary>
+<summary><ins>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔:</ins></summary>
   
 <div align="center">
    <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
@@ -97,7 +97,7 @@
 <br>
 
   <details>
-   <summary><ins>⚠️ᴡᴀʀɴɪɴɢ...⚠️</ins></summary>
+   <summary><ins>⚠️ᴡᴀʀɴɪɴɢ...⚠️:</ins></summary>
      
 <div align="center">
    <p>Interacting / Disturbing / Interrupting me is an extreme caution; I might bite you if YOU do that.</p>
@@ -117,10 +117,10 @@
 <br>
 
 <details>
- <summary><ins>❔ʟᴏᴄᴀᴛɪᴏɴ❔</ins></summary>
+ <summary><ins>❔ʟᴏᴄᴀᴛɪᴏɴ❔:</ins></summary>
  
  <div align="center">
-   <p>Under bakery, by the brick fence, at approximately the Bakery board, sitting with @ThatRoyalBeast. [In Safe Server #OG 1]</p>
+   <p>under bakery, by the brick fences, at approximately the bakery board, [In Safe Server #OG 1, #2  and # 18+ server ]</p>
    </div>
 </details>
 <br>
